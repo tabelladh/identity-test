@@ -1,0 +1,1 @@
+archivo 3, el anterior se borro con el git reset --hard
